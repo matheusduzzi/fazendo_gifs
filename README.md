@@ -1,7 +1,5 @@
 # Fazendo GIFs
 
-![alt text](https://pbs.twimg.com/profile_images/1082974032482443265/8gsUI9oA_400x400.jpg)
+Neste trabalho o objetivo era elaborar uma visão geral da série histórica de valores relacionados a grãos brasileiros. Para isso usei o R na construção de um GIF, ajudando no storytelling do tema.
 
-Nesse trabalho o objetivo era elaborar uma visão geral da série histórica de valores relacionados a grãos brasileiros.
-
-O código produzido para servir como mídia na publicação https://www.linkedin.com/feed/update/urn:li:activity:6693663823645184000/
+O código foi produzido para servir como mídia na publicação https://www.linkedin.com/feed/update/urn:li:activity:6693663823645184000/
